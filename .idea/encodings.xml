@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cp1048/example.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/candide-gb18030.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/candide-utf-16le.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/candide-utf-32be.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/candide-windows-1252.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/kazakh-kz1048.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/rashomon-euc-jp.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/rashomon-iso-2022-jp.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/rashomon-shift-jis.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/rashomon-utf-8.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-gb-levels-1-and-2-hz-gb2312.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-gb-levels-1-and-2-utf-8.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-simplified-gbk.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-simplified-utf-8.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-traditional-big5.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/sunzi-bingfa-traditional-utf-8.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/unsu-joh-eun-nal-euc-kr.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/testdata/unsu-joh-eun-nal-utf-8.txt" charset="windows-1251" />
+  </component>
+</project>
